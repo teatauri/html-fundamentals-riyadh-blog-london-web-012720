@@ -80,7 +80,7 @@ a:hover {
   h2 {
     font-size: 1em;
   }
-  content.wrapper {
-    width: 60%;
+  .wrapper {
+    width: 50%;
   }
 }
