@@ -20,7 +20,7 @@ body {
 }
 
 #content {
-  padding: 500px;
+  padding: 40px;
   background: rgba(255,255,255,.85);
 }
 
@@ -80,7 +80,7 @@ a:hover {
   h2 {
     font-size: 1em;
   }
-  .wrapper {
+  content.wrapper {
     width: 95%;
   }
 }
